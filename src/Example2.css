@@ -1,0 +1,11 @@
+.custom-tooltip{
+    background-color: #444;
+    border-radius: 4px;
+    color: #fff;
+    padding: 1px 10px;
+    line-height: 16px;
+    width: 246px;
+}
+.custom-tooltip .label{
+    font-weight: bold;
+}
